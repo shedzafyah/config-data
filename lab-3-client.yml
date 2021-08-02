@@ -1,1 +1,9 @@
+---
+spring:
+  profiles: east
+lucky-word: Rabbit's Foot
 
+---
+spring:
+  profiles: west
+lucky-word: Clover
